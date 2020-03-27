@@ -1,7 +1,6 @@
 import { StyleSheet } from 'react-native';
 import Constants from 'expo-constants';
 
-
 export default StyleSheet.create({
     container: {
         flex: 1,
@@ -12,12 +11,12 @@ export default StyleSheet.create({
     header: {
         flexDirection: 'row',
         justifyContent: 'space-between',
-        alignItems: 'center'
+        alignItems: 'center',
     },
 
     incident: {
         padding: 24,
-        borderRaiuds: 8,
+        borderRadius: 8,
         backgroundColor: '#FFF',
         marginBottom: 16,
         marginTop: 48,
@@ -26,19 +25,19 @@ export default StyleSheet.create({
     incidentProperty: {
         fontSize: 14,
         color: '#41414d',
-        fontWeight:'bold',
+        fontWeight: 'bold',
         marginTop: 24,
     },
 
     incidentValue: {
         marginTop: 8,
         fontSize: 15,
-        color: '#737380'
+        color: '#737380',
     },
 
     contactBox: {
         padding: 24,
-        borderRaiuds: 8,
+        borderRadius: 8,
         backgroundColor: '#FFF',
         marginBottom: 16,
     },
@@ -72,8 +71,8 @@ export default StyleSheet.create({
     },
 
     actionText: {
+        color: '#FFF',
         fontSize: 15,
         fontWeight: 'bold',
-        color: '#FFF',
-    }
-})
+    },
+});
