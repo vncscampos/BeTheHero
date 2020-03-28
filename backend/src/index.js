@@ -25,8 +25,7 @@ app.listen(3333);
 // Driver: usar a linguagem SQL para acessar o banco de dados
 // Query Builder: usar a linguagem do js para acessar banco de dados
 
-
-
+// Migrations: forma de criar e alterar as tabelas mantendo um historico das modificações no banco de dados
 
 
 
