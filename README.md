@@ -23,6 +23,9 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
+## Web
+![421xbp](https://github.com/vncscampos/BeTheHero/blob/master/.github/421xbp.gif)
+
 ## Mobile
 
 ![421s10](https://github.com/vncscampos/BeTheHero/blob/master/.github/421s10.gif)
