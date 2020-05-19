@@ -1,5 +1,7 @@
-![logo@3x](https://github.com/vncscampos/BeTheHero/blob/master/.github/logo%403x.png)
-# Be The Hero
+<p align="center">
+  ![logo@3x](https://github.com/vncscampos/BeTheHero/blob/master/.github/logo%403x.png)
+  # Be The Hero
+</p>
 
 ### O que é
 
