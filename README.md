@@ -5,11 +5,11 @@
 
 O Be The Hero é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
 
-## Tecnologias usadas
+## O que foi usado
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
+- [React Native](https://facebook.github.io/react-native/)
 - [React](https://pt-br.reactjs.org/)
 
 Extras:
